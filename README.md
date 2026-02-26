@@ -28,9 +28,12 @@ Check out my projects and portfolio at http://toanportfolio.com/
 ![Blade](https://img.shields.io/badge/blade-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=toan28102002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=toan28102002&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toan28102002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=toan28102002&theme=dark&hide_border=true&count_private=true&v=1)
+
+![](https://streak-stats.demolab.com?user=toan28102002&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toan28102002&theme=dark&hide_border=true&layout=compact&v=1)
 
 ### ✍️ Best Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Excuses%20sound%20best%20to%20the%20person%20making%20them%20up&author=Tyrese%20Gibson)
