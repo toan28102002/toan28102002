@@ -29,7 +29,7 @@ Check out my projects and portfolio at http://toanportfolio.com/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toan28102002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Best Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=“Excuses%20sound%20best%20to%20the%20person%20making%20them%20up”%20-%20Tyrese%20Gibson)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Excuses%20sound%20best%20to%20the%20person%20making%20them%20up&author=Tyrese%20Gibson)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=toan28102002&icon=0&color=0)](https://visitcount.itsvg.in)
