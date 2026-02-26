@@ -1,7 +1,9 @@
 ## Hi there 👋 I am Tom Toan.
 
 # 💫 About Me:
-Hi, I’m Toan Nguyen, a Computer Science (B.S.) student at the University of Missouri-Kansas City (UMKC) and a Mathematics & Computer Science (B.A.) graduate from The American University of Vietnam (AUV). I’m passionate about data analytics and automation, and I enjoy practicing web development in my free time. Check out my projects and portfolio at http://toanportfolio.com/
+Hi, I’m Toan Nguyen, a Computer Science (B.S.) student at the University of Missouri-Kansas City (UMKC) and a Mathematics & Computer Science (B.A.) graduate from The American University of Vietnam (AUV). I’m passionate about data analytics and automation, and I enjoy practicing web development in my free time. 
+
+Check out my projects and portfolio at http://toanportfolio.com/
 
 
 ## 🌐 Socials:
